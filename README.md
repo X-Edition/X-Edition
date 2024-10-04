@@ -3,7 +3,7 @@
 Here you will probably find nothing useful! (awesome)
 
 ## About Me:
-A college student majoring in computer science.
-Love poptarts.
+- A college student majoring in computer science.
+- Love poptarts.
 
 [Random Advice](https://github.com/X-Edition/X-Edition/blob/main/advice.md)
