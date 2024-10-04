@@ -1,4 +1,4 @@
-# Random advice
+# Random Advice
 ## You are currently procrastinating
 The best advice I can give is to turn around and go do some real work :)
 
