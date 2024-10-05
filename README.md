@@ -1,6 +1,6 @@
 # Welcome to The Worst GitHub Profile!
 
-Here you will probably find nothing useful!!! (awesome)
+Here you will probably find nothing useful!!! (awesome?)
 
 ## About Me:
 - A college student majoring in computer science.
